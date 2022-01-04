@@ -4,7 +4,8 @@
     "description": "",
     "dependencies": {
         "device": "*",
-        "corgio": "*"
+        "corgio": "*",
+        "color-coded-tilemap": "*"
     },
     "files": [
         "main.blocks",
